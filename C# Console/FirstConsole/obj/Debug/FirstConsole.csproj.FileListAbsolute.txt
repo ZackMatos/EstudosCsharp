@@ -1,0 +1,8 @@
+C:\Users\emanu\Desktop\C#\C# Console\FirstConsole\bin\Debug\FirstConsole.exe.config
+C:\Users\emanu\Desktop\C#\C# Console\FirstConsole\bin\Debug\FirstConsole.exe
+C:\Users\emanu\Desktop\C#\C# Console\FirstConsole\bin\Debug\FirstConsole.pdb
+C:\Users\emanu\Desktop\C#\C# Console\FirstConsole\obj\Debug\FirstConsole.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\C#\C# Console\FirstConsole\obj\Debug\FirstConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\emanu\Desktop\C#\C# Console\FirstConsole\obj\Debug\FirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\C#\C# Console\FirstConsole\obj\Debug\FirstConsole.exe
+C:\Users\emanu\Desktop\C#\C# Console\FirstConsole\obj\Debug\FirstConsole.pdb

@@ -1,0 +1,8 @@
+C:\Users\emanu\Desktop\C#\C# Console\NumPrimo\bin\Debug\NumPrimo.exe.config
+C:\Users\emanu\Desktop\C#\C# Console\NumPrimo\bin\Debug\NumPrimo.exe
+C:\Users\emanu\Desktop\C#\C# Console\NumPrimo\bin\Debug\NumPrimo.pdb
+C:\Users\emanu\Desktop\C#\C# Console\NumPrimo\obj\Debug\NumPrimo.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\C#\C# Console\NumPrimo\obj\Debug\NumPrimo.csproj.SuggestedBindingRedirects.cache
+C:\Users\emanu\Desktop\C#\C# Console\NumPrimo\obj\Debug\NumPrimo.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\C#\C# Console\NumPrimo\obj\Debug\NumPrimo.exe
+C:\Users\emanu\Desktop\C#\C# Console\NumPrimo\obj\Debug\NumPrimo.pdb
