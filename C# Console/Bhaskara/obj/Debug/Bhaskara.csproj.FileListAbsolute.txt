@@ -6,3 +6,11 @@ C:\Users\emanu\Desktop\C#\C# Console\Bhaskara\obj\Debug\Bhaskara.csproj.Suggeste
 C:\Users\emanu\Desktop\C#\C# Console\Bhaskara\obj\Debug\Bhaskara.csproj.CoreCompileInputs.cache
 C:\Users\emanu\Desktop\C#\C# Console\Bhaskara\obj\Debug\Bhaskara.exe
 C:\Users\emanu\Desktop\C#\C# Console\Bhaskara\obj\Debug\Bhaskara.pdb
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Bhaskara\bin\Debug\Bhaskara.exe.config
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Bhaskara\obj\Debug\Bhaskara.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Bhaskara\obj\Debug\Bhaskara.csproj.SuggestedBindingRedirects.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Bhaskara\obj\Debug\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Bhaskara\obj\Debug\Bhaskara.exe
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Bhaskara\obj\Debug\Bhaskara.pdb
