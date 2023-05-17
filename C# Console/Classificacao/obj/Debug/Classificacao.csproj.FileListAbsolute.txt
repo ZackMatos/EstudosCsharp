@@ -1,0 +1,8 @@
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Classificacao\bin\Debug\Classificacao.exe.config
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Classificacao\bin\Debug\Classificacao.exe
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Classificacao\bin\Debug\Classificacao.pdb
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Classificacao\obj\Debug\Classificacao.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Classificacao\obj\Debug\Classificacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Classificacao\obj\Debug\Classificacao.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Classificacao\obj\Debug\Classificacao.exe
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Classificacao\obj\Debug\Classificacao.pdb
