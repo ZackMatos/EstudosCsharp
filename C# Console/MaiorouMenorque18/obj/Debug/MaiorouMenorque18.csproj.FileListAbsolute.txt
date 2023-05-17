@@ -1,0 +1,8 @@
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\MaiorouMenorque18\bin\Debug\MaiorouMenorque18.exe.config
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\MaiorouMenorque18\bin\Debug\MaiorouMenorque18.exe
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\MaiorouMenorque18\bin\Debug\MaiorouMenorque18.pdb
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\MaiorouMenorque18\obj\Debug\MaiorouMenorque18.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\MaiorouMenorque18\obj\Debug\MaiorouMenorque18.csproj.SuggestedBindingRedirects.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\MaiorouMenorque18\obj\Debug\MaiorouMenorque18.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\MaiorouMenorque18\obj\Debug\MaiorouMenorque18.exe
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\MaiorouMenorque18\obj\Debug\MaiorouMenorque18.pdb
