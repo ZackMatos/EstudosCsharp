@@ -1,0 +1,15 @@
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\bin\Debug\net7.0\Repeticao_com_For.exe
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\bin\Debug\net7.0\Repeticao_com_For.deps.json
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\bin\Debug\net7.0\Repeticao_com_For.runtimeconfig.json
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\bin\Debug\net7.0\Repeticao_com_For.dll
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\bin\Debug\net7.0\Repeticao_com_For.pdb
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\Repeticao_com_For.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\Repeticao_com_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\Repeticao_com_For.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\Repeticao_com_For.AssemblyInfo.cs
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\Repeticao_com_For.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\Repeticao_com_For.dll
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\refint\Repeticao_com_For.dll
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\Repeticao_com_For.pdb
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\Repeticao_com_For.genruntimeconfig.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Repeticao_com_For\obj\Debug\net7.0\ref\Repeticao_com_For.dll
