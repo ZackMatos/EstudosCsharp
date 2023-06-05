@@ -1,0 +1,15 @@
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\bin\Debug\net7.0\Apresentar-OO.exe
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\bin\Debug\net7.0\Apresentar-OO.deps.json
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\bin\Debug\net7.0\Apresentar-OO.runtimeconfig.json
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\bin\Debug\net7.0\Apresentar-OO.dll
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\bin\Debug\net7.0\Apresentar-OO.pdb
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\Apresentar-OO.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\Apresentar-OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\Apresentar-OO.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\Apresentar-OO.AssemblyInfo.cs
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\Apresentar-OO.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\Apresentar-OO.dll
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\refint\Apresentar-OO.dll
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\Apresentar-OO.pdb
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\Apresentar-OO.genruntimeconfig.cache
+C:\Users\emanu\Desktop\C#\Estudos\EstudosCsharp\C# Console\Apresentar-OO\obj\Debug\net7.0\ref\Apresentar-OO.dll
